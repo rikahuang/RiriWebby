@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RiriWebby/static/css/main.5a257427.css",
-    "main.js": "/RiriWebby/static/js/main.a19968d5.js",
+    "main.js": "/RiriWebby/static/js/main.7afca767.js",
     "static/media/speechBubble.png": "/RiriWebby/static/media/speechBubble.a12ffe90da3a9749c1fe.png",
     "static/media/strawberri1.png": "/RiriWebby/static/media/strawberri1.534d209294d37fad38ff.png",
     "static/media/right.png": "/RiriWebby/static/media/right.fbead9d734fc51496bf2.png",
@@ -12,10 +12,10 @@
     "static/media/Typescript.svg": "/RiriWebby/static/media/Typescript.6e81168e68305d0e4c77d2b16f026bfb.svg",
     "index.html": "/RiriWebby/index.html",
     "main.5a257427.css.map": "/RiriWebby/static/css/main.5a257427.css.map",
-    "main.a19968d5.js.map": "/RiriWebby/static/js/main.a19968d5.js.map"
+    "main.7afca767.js.map": "/RiriWebby/static/js/main.7afca767.js.map"
   },
   "entrypoints": [
     "static/css/main.5a257427.css",
-    "static/js/main.a19968d5.js"
+    "static/js/main.7afca767.js"
   ]
 }
