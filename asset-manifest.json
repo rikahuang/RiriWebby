@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/RiriWebby/static/css/main.5a257427.css",
+    "main.js": "/RiriWebby/static/js/main.a19968d5.js",
+    "static/media/speechBubble.png": "/RiriWebby/static/media/speechBubble.a12ffe90da3a9749c1fe.png",
+    "static/media/strawberri1.png": "/RiriWebby/static/media/strawberri1.534d209294d37fad38ff.png",
+    "static/media/right.png": "/RiriWebby/static/media/right.fbead9d734fc51496bf2.png",
+    "static/media/left.png": "/RiriWebby/static/media/left.cc9e125f2d2c9256b906.png",
+    "static/media/bottom.png": "/RiriWebby/static/media/bottom.dda2b7ccf8bc9aa84075.png",
+    "static/media/top.png": "/RiriWebby/static/media/top.f01e78503fec75f7e381.png",
+    "static/media/MongoDB.svg": "/RiriWebby/static/media/MongoDB.4d0524e8507975bf9f23ba41f15253e8.svg",
+    "static/media/Typescript.svg": "/RiriWebby/static/media/Typescript.6e81168e68305d0e4c77d2b16f026bfb.svg",
+    "index.html": "/RiriWebby/index.html",
+    "main.5a257427.css.map": "/RiriWebby/static/css/main.5a257427.css.map",
+    "main.a19968d5.js.map": "/RiriWebby/static/js/main.a19968d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a257427.css",
+    "static/js/main.a19968d5.js"
+  ]
+}
