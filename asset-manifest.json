@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/RiriWebby/static/css/main.a0cecf4f.css",
-    "main.js": "/RiriWebby/static/js/main.d446e667.js",
+    "main.js": "/RiriWebby/static/js/main.62f1f4b5.js",
     "static/media/VCRScreenshot.png": "/RiriWebby/static/media/VCRScreenshot.e4ee043967b63338ce8c.png",
     "static/media/RPSScreenshot.png": "/RiriWebby/static/media/RPSScreenshot.09f696be606ca5eea845.png",
     "static/media/MochiScreenshot.png": "/RiriWebby/static/media/MochiScreenshot.8288b1ad4970782c049f.png",
@@ -9,6 +9,7 @@
     "static/media/speechBubble.png": "/RiriWebby/static/media/speechBubble.a12ffe90da3a9749c1fe.png",
     "static/media/strawberri1.png": "/RiriWebby/static/media/strawberri1.534d209294d37fad38ff.png",
     "static/media/WeatherScreenshot.png": "/RiriWebby/static/media/WeatherScreenshot.880fd4e6fbb06a134818.png",
+    "static/media/HangmanScreenshot.png": "/RiriWebby/static/media/HangmanScreenshot.e6958a5da3137d782178.png",
     "static/media/ririsDP.jpg": "/RiriWebby/static/media/ririsDP.e80d3927f9e0e22572cf.jpg",
     "static/media/right.png": "/RiriWebby/static/media/right.fbead9d734fc51496bf2.png",
     "static/media/left.png": "/RiriWebby/static/media/left.cc9e125f2d2c9256b906.png",
@@ -20,10 +21,10 @@
     "static/media/Typescript.svg": "/RiriWebby/static/media/Typescript.6e81168e68305d0e4c77d2b16f026bfb.svg",
     "index.html": "/RiriWebby/index.html",
     "main.a0cecf4f.css.map": "/RiriWebby/static/css/main.a0cecf4f.css.map",
-    "main.d446e667.js.map": "/RiriWebby/static/js/main.d446e667.js.map"
+    "main.62f1f4b5.js.map": "/RiriWebby/static/js/main.62f1f4b5.js.map"
   },
   "entrypoints": [
     "static/css/main.a0cecf4f.css",
-    "static/js/main.d446e667.js"
+    "static/js/main.62f1f4b5.js"
   ]
 }
