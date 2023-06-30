@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RiriWebby/static/css/main.a0cecf4f.css",
-    "main.js": "/RiriWebby/static/js/main.1d0d53be.js",
+    "main.css": "/RiriWebby/static/css/main.fed9a705.css",
+    "main.js": "/RiriWebby/static/js/main.faae2c87.js",
     "static/media/VCRScreenshot.png": "/RiriWebby/static/media/VCRScreenshot.e4ee043967b63338ce8c.png",
     "static/media/RPSScreenshot.png": "/RiriWebby/static/media/RPSScreenshot.09f696be606ca5eea845.png",
     "static/media/MochiScreenshot.png": "/RiriWebby/static/media/MochiScreenshot.8288b1ad4970782c049f.png",
@@ -20,11 +20,11 @@
     "static/media/MongoDB.svg": "/RiriWebby/static/media/MongoDB.4d0524e8507975bf9f23ba41f15253e8.svg",
     "static/media/Typescript.svg": "/RiriWebby/static/media/Typescript.6e81168e68305d0e4c77d2b16f026bfb.svg",
     "index.html": "/RiriWebby/index.html",
-    "main.a0cecf4f.css.map": "/RiriWebby/static/css/main.a0cecf4f.css.map",
-    "main.1d0d53be.js.map": "/RiriWebby/static/js/main.1d0d53be.js.map"
+    "main.fed9a705.css.map": "/RiriWebby/static/css/main.fed9a705.css.map",
+    "main.faae2c87.js.map": "/RiriWebby/static/js/main.faae2c87.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0cecf4f.css",
-    "static/js/main.1d0d53be.js"
+    "static/css/main.fed9a705.css",
+    "static/js/main.faae2c87.js"
   ]
 }
